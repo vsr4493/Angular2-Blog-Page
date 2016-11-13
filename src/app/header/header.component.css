@@ -1,0 +1,12 @@
+header.container-fluid{
+	padding: 10px 0px;
+	margin:0px;
+	background-color:#004D40;
+	color:#fff;
+	
+}
+header.container-fluid.h3{
+	font-style:italic;
+	font-weight:bold;
+	font-size:1.5em;
+}
